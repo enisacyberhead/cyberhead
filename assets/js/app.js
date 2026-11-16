@@ -150,7 +150,7 @@
   /* ---------- detail page ---------- */
   var CATS = [
     { key: "security", label: "Security Computing / Engineering", color: "#004087" },
-    { key: "law", label: "Law, Ethics, Policy,Cybercrime", color: "#ce1141" },
+    { key: "law", label: "Law, Ethics, Policy, Cybercrime", color: "#ce1141" },
     { key: "org", label: "Organizational, Risk management, Business compliance", color: "#8dc63f" },
     { key: "internship", label: "Internship", color: "#c2d3e9" },
     { key: "other", label: "Other", color: "#44c8f5" }
