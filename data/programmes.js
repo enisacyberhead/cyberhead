@@ -841,6 +841,30 @@ window.PROGRAMMES = [
   "specialists": true
  },
  {
+  "id": "38a6e971d6ce48b4bcbb7d3d93b477da",
+  "institution": "University College Dublin",
+  "name": "Forensic Computing and Cybercrime Investigation",
+  "type": "Master Degree",
+  "url": "https://www.salleurl.edu/en/education/master-cybersecurity",
+  "description": "This programme is restricted to law enforcement investigators and focuses mainly on digital forensics although it has relevance for cybersecurity practitioners in government and law enforcement. Possible career path as a Digital Forensics Investigator, a role defined by the European Cybersecurity Skills Framework (ECSF).",
+  "cost": "Charges Apply",
+  "ects": {
+   "total": 90,
+   "security": 40,
+   "law": 0,
+   "org": 0,
+   "internship": 0,
+   "other": 50
+  },
+  "delivery": "Online",
+  "language": "English",
+  "city": "Dublin",
+  "country": "Ireland",
+  "established": "2006",
+  "certification": "",
+  "specialists": true
+ },
+ {
   "id": "0bc778ad27526a48e122c8b44ea632fa",
   "institution": "Gheorghe Asachi Technical University of Iași",
   "name": "Cybersecurity",
